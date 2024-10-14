@@ -1,4 +1,4 @@
-# DatabaseProject
-This is a database project about a dental clinic,
-to help doctor to insert patients and deal with thier 
-medical conditions easily.
+# Dental Clinic Database Project
+-This database project implemented for dental clinic, Our client is a Dental Clinic, Alkhateeb clinic, in Ramallah, after I asked the client he told us about the information that is recorded in the system which contains: name of the patient, his age, gender, date of visit, last date of visit, tooth number, type of treatment, the amount paid, remaining amount, nature of treatment, And we can help them by adding x-ray image, notes ,email , list of people in the waiting room ,the patient's condition and prescription medication. So, we implemented the database to enable the dentist to insert, delete, and update all this information for the patient. 
+
+-For this project, I used MySQL workbench to implement the tables with its attributes, also to handle all queries needed to insert, delete, update and all other queries. Also, I used Eclipse IDE and SceneBuilder to implement interfaces and connect them with database.
